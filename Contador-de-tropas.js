@@ -1,4 +1,4 @@
-function fnExecuteScript(){
+
 /* troopcounter by Sophie "Shinko to Kuma" - UI needs update still*/
 
 if (window.location.href.indexOf('overview_villages&mode=units&type=complete&group=0&page=-1&type=complete') < 0) {
@@ -376,4 +376,3 @@ else {
 
 
 }
-    fnExecuteScript();
